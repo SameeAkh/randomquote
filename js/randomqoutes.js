@@ -1,23 +1,23 @@
 function generateQuote() {
     const quotes = [
         {
-            quote: "This is my 1st quote.",
+            quote: "Autobots, transform and roll out",
             author: "Me"
         },
         {
-            quote: "This is my 2nd quote.",
+            quote: "We can be heroes in our own lives. Every one of us. If we only have the courage to try",
             author: "Me"
         },
         {
-            quote: "This is my 3rd quote.",
+            quote: "We have suffered losses, but we have not lost the war.",
             author: "Me"
         },
         {
-            quote: "This is my 4th quote.",
+            quote: "A necessary sacrifice to bring peace to this planet. We cannot let the humans pay for our mistakes.",
             author: "Me"
         },
         {
-            quote: "This is my 5th quote.",
+            quote: "Come on, Decepticon punk!.",
             author: "Me"
         }
         
