@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: aqua;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100%;
+    min-height: 100vh;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1vh;
+}
+.container{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    padding: 2vh;
+    gap: 2vh;
+    text-align: center;
+    font-size: 200%;
+    background-color: rgba(0, 255, 255, 0.421);
+    color: rgba(172, 30, 30, 0.737);
+}
+#quotation{
+    font-style: italic;
+}
+button{
+    background-color: coral;
+    padding: 10px;
+}
